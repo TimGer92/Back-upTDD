@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Jaar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rekening.cs" />
     <Compile Include="Veiling.cs" />
     <Compile Include="Woord.cs" />
   </ItemGroup>

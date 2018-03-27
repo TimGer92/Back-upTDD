@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace TDDCursusLibrary
 {
-    public class Veiling
+    public class Rekening
     {
-        private decimal bod;
-      public void DoeBod(decimal bedrag)
+        private decimal saldo;
+        public void Storten(decimal bedrag)
         {
-           if(bedrag > bod)
-            {
-                bod = bedrag;
-            }
+            saldo += bedrag;
         }
-      public decimal HoogsteBod
+
+        public decimal Saldo
         {
             get
             {
-                return bod; 
+                return saldo;
             }
         }
 

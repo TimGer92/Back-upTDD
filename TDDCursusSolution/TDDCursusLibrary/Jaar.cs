@@ -27,6 +27,6 @@ namespace TDDCursusLibrary
                 }
                 return jaar % 4 == 0;
             }
-        }
+        } 
     }
 }

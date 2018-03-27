@@ -11,18 +11,23 @@ namespace TDDCursusLibraryTest
     /// </summary>
     [TestClass]
     public class VeilingTest
-    {        
+    {
+        private Veiling veiling;
+        [TestInitialize]
+        public void Initialize()
+        {
+            veiling = new Veiling();
+        }
+
         [TestMethod]
         public void GeenBodGedaanDanIsHoogsteBodNul()
         {
-            var veiling = new Veiling();
             Assert.AreEqual(decimal.Zero,veiling.HoogsteBod);
         }
 
         [TestMethod]
         public void EersteBodIsHoogsteBod()
         {
-            var veiling = new Veiling();
             veiling.DoeBod(1000m);
             Assert.AreEqual(1000m, veiling.HoogsteBod);
         }
@@ -30,7 +35,6 @@ namespace TDDCursusLibraryTest
         [TestMethod]
         public void MeerdeBiedingenDanIsHoogsteBodGelijkAanGrootsteBedrag()
         {
-            var veiling = new Veiling();
             veiling.DoeBod(100m);
             veiling.DoeBod(150m);
             veiling.DoeBod(200m);

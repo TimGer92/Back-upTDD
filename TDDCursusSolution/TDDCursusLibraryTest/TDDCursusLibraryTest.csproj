@@ -52,9 +52,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ISBNTest.cs" />
     <Compile Include="JaarTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RekeningNummerTest.cs" />
     <Compile Include="RekeningTest.cs" />
+    <Compile Include="StatistiekTest.cs" />
     <Compile Include="VeilingTest.cs" />
     <Compile Include="WoordTest.cs" />
   </ItemGroup>

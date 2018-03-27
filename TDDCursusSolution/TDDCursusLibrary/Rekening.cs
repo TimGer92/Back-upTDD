@@ -11,6 +11,10 @@ namespace TDDCursusLibrary
         private decimal saldo;
         public void Storten(decimal bedrag)
         {
+            if (bedrag <= decimal.Zero)
+            {
+                throw new ArgumentException();
+            }
             saldo += bedrag;
         }
 

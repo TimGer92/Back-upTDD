@@ -7,3 +7,10 @@ C:\Timmy\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibrary.pdb
 C:\Timmy\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Timmy\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.dll
 C:\Timmy\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.pdb
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibraryTest.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibraryTest.pdb
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibrary.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\TDDCursusLibrary.pdb
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.csprojResolveAssemblyReference.cache
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.pdb

@@ -3,3 +3,8 @@ C:\Timmy\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursusLibrary.pdb
 C:\Timmy\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.csprojResolveAssemblyReference.cache
 C:\Timmy\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.dll
 C:\Timmy\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.pdb
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursusLibrary.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibrary\bin\Debug\TDDCursusLibrary.pdb
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.csprojResolveAssemblyReference.cache
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibrary\obj\Debug\TDDCursusLibrary.pdb

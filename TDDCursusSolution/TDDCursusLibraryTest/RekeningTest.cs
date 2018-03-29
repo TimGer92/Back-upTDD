@@ -6,9 +6,6 @@ using TDDCursusLibrary;
 
 namespace TDDCursusLibraryTest
 {
-    /// <summary>
-    /// Summary description for RekeningTest
-    /// </summary>
     [TestClass]
     public class RekeningTest
     {

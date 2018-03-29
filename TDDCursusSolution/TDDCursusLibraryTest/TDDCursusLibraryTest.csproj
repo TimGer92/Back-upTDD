@@ -58,6 +58,7 @@
     <Compile Include="RekeningNummerTest.cs" />
     <Compile Include="RekeningTest.cs" />
     <Compile Include="StatistiekTest.cs" />
+    <Compile Include="UnitTest1.cs" />
     <Compile Include="VeilingTest.cs" />
     <Compile Include="WoordTest.cs" />
   </ItemGroup>
@@ -66,6 +67,11 @@
       <Project>{554e5d04-280f-4534-beef-f7b4fb6faf25}</Project>
       <Name>TDDCursusLibrary</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Rekening%28Nummer%29.orderedtest">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

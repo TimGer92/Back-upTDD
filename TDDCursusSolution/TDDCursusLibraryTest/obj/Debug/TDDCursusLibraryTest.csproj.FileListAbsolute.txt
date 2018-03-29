@@ -14,3 +14,4 @@ C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debu
 C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.csprojResolveAssemblyReference.cache
 C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.dll
 C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.pdb
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Rekening(Nummer).orderedtest

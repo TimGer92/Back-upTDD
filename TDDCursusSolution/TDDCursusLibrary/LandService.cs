@@ -11,7 +11,9 @@ namespace TDDCursusLibrary
         private readonly ILandDAO landDAO;
         public decimal VerhoudingOppervlakteLandOppervlakteAlleLanden(string landcode)
         {
-            throw new NotImplementedException();
+            var land = landDAO.Read(landcode);
+            var oppervlakteAlleLanden = landDAO.OppervlakteAlleLanden();
+            return (decimal)land.Oppervlakte / oppervlakteAlleLanden;
         }
         public LandService(ILandDAO landDAO)
         {

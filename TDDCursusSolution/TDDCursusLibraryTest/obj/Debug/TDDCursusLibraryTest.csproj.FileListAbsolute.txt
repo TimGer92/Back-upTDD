@@ -15,3 +15,12 @@ C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debu
 C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.dll
 C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\obj\Debug\TDDCursusLibraryTest.pdb
 C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Rekening(Nummer).orderedtest
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Castle.Core.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Moq.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\System.ValueTuple.dll
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Castle.Core.xml
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Moq.pdb
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\Moq.xml
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Timmy\Back-up(GIT)\Back-upTDD\TDDCursusSolution\TDDCursusLibraryTest\bin\Debug\System.ValueTuple.xml
